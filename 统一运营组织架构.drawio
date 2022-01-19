@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T05:48:46.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="TolnFlKFLlqX7yliblzY" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T05:56:38.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="7jWtv0ka6NCLzTkeb8D4" version="16.3.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1303" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="内容运营" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="710" height="500" as="geometry" />
         </mxCell>
-        <UserObject label="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;%name%&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;i style=&quot;font-family: helvetica; font-size: 12px; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); color: gray;&quot;&gt;%position%&lt;/i&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;a href=&quot;mailto:%email%&quot; style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;Email&lt;/a&gt;&#xa;&#xa;" name="人员待定" position="内容运营总负责人" location="大金塔" email="" placeholders="1" link="" id="dNxyNK7c78bLwvsdeMH5-12">
+        <UserObject label="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;%name%&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;i style=&quot;font-family: helvetica; font-size: 12px; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); color: gray;&quot;&gt;%position%&lt;/i&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;a href=&quot;mailto:%email%&quot; style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;Email&lt;/a&gt;&#xa;&#xa;" name="人员待定" position="内容运营负责人" location="大金塔" email="" placeholders="1" link="" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="260" y="60" width="180" height="70" as="geometry" />
           </mxCell>
@@ -58,9 +58,9 @@
             <mxGeometry x="360" y="340" width="200" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;%name%&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;i style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;a href=&quot;mailto:%email%&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Email&lt;/a&gt;" name="uttama尊者" position="项目总负责人" location="大金塔" email="" placeholders="1" link="" id="FHAz8kvWBEET84P1jxPl-1">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-            <mxGeometry x="870" y="-240" width="180" height="70" as="geometry" />
+        <UserObject label="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;%name%&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;i style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;a href=&quot;mailto:%email%&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Email&lt;/a&gt;" name="uttama尊者" position="项目负责人" location="大金塔" email="" placeholders="1" link="" id="FHAz8kvWBEET84P1jxPl-1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+            <mxGeometry x="870" y="-240" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="FHAz8kvWBEET84P1jxPl-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FHAz8kvWBEET84P1jxPl-1" target="dNxyNK7c78bLwvsdeMH5-12">
@@ -72,9 +72,9 @@
         <mxCell id="FHAz8kvWBEET84P1jxPl-3" value="技术运营" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1060" y="20" width="910" height="500" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font face=&quot;helvetica&quot;&gt;谭博文&lt;/font&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;i style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 700 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; color: gray&quot;&gt;技术总负责人&lt;/i&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;a href=&quot;mailto:&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Email&lt;/a&gt;" name="人员待定" position="内容运营总负责人" location="大金塔" email="" placeholders="1" link="" id="FHAz8kvWBEET84P1jxPl-4">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="FHAz8kvWBEET84P1jxPl-3">
-            <mxGeometry x="374" y="50" width="180" height="70" as="geometry" />
+        <UserObject label="&lt;font face=&quot;helvetica&quot;&gt;谭博文&lt;/font&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;i style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 700 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; color: gray&quot;&gt;技术负责人&lt;/i&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;a href=&quot;mailto:&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Email&lt;/a&gt;" name="人员待定" position="内容运营总负责人" location="大金塔" email="" placeholders="1" link="" id="FHAz8kvWBEET84P1jxPl-4">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="FHAz8kvWBEET84P1jxPl-3">
+            <mxGeometry x="374" y="40" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="FHAz8kvWBEET84P1jxPl-5" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="FHAz8kvWBEET84P1jxPl-3" source="FHAz8kvWBEET84P1jxPl-4" target="FHAz8kvWBEET84P1jxPl-6">
@@ -146,36 +146,21 @@
             <mxPoint x="710" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FHAz8kvWBEET84P1jxPl-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.437;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FHAz8kvWBEET84P1jxPl-4">
+        <mxCell id="FHAz8kvWBEET84P1jxPl-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.437;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FHAz8kvWBEET84P1jxPl-1" target="FHAz8kvWBEET84P1jxPl-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="-170" as="sourcePoint" />
+            <mxPoint x="980" y="-40" as="sourcePoint" />
             <mxPoint x="1780" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FHAz8kvWBEET84P1jxPl-19" value="外部团队" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="-780" width="910" height="500" as="geometry" />
+          <mxGeometry x="1090" y="-860" width="910" height="500" as="geometry" />
         </mxCell>
         <UserObject label="大金塔海外支援团队&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;研发专员&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:&quot;&gt;Email&lt;/a&gt;" name="人员待定" position="老曼娥/曼咪/云台寺/塔庄星运营专员" location="法住禅林" email="" placeholders="1" link="" id="FHAz8kvWBEET84P1jxPl-31">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="FHAz8kvWBEET84P1jxPl-19">
             <mxGeometry x="130" y="300" width="200" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="大金塔海外支援团队&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;研发专员&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:&quot;&gt;Email&lt;/a&gt;" name="人员待定" position="老曼娥/曼咪/云台寺/塔庄星运营专员" location="法住禅林" email="" placeholders="1" link="" id="FHAz8kvWBEET84P1jxPl-33">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="FHAz8kvWBEET84P1jxPl-19">
-            <mxGeometry x="530" y="300" width="200" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="大金塔海外支援团队&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;研发专员&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:&quot;&gt;Email&lt;/a&gt;" name="人员待定" position="老曼娥/曼咪/云台寺/塔庄星运营专员" location="法住禅林" email="" placeholders="1" link="" id="FHAz8kvWBEET84P1jxPl-34">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="FHAz8kvWBEET84P1jxPl-19">
-            <mxGeometry x="130" y="100" width="200" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="大金塔海外支援团队&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;研发专员&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:&quot;&gt;Email&lt;/a&gt;" name="人员待定" position="老曼娥/曼咪/云台寺/塔庄星运营专员" location="法住禅林" email="" placeholders="1" link="" id="FHAz8kvWBEET84P1jxPl-35">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="FHAz8kvWBEET84P1jxPl-19">
-            <mxGeometry x="530" y="100" width="200" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="FHAz8kvWBEET84P1jxPl-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FHAz8kvWBEET84P1jxPl-31" target="FHAz8kvWBEET84P1jxPl-1">
+        <mxCell id="FHAz8kvWBEET84P1jxPl-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FHAz8kvWBEET84P1jxPl-1" target="FHAz8kvWBEET84P1jxPl-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="-250" as="sourcePoint" />
             <mxPoint x="850" y="-300" as="targetPoint" />
