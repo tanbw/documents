@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T02:19:24.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="CA6UKnIwn31sYP9d6yVf" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T02:22:50.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="L_BIittqiRtKS5Su31OK" version="16.4.3" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1675" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="ZJF9qfAngsYHFAXgRAQW-3" value="档案管理" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZJF9qfAngsYHFAXgRAQW-5" value="法务处" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="ZJF9qfAngsYHFAXgRAQW-5" value="内容运营人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZJF9qfAngsYHFAXgRAQW-6" value="互联网用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -88,7 +88,7 @@
         <mxCell id="ZJF9qfAngsYHFAXgRAQW-28" value="系统管理" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZJF9qfAngsYHFAXgRAQW-32" value="僧务处" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="ZJF9qfAngsYHFAXgRAQW-32" value="寺院管理人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZJF9qfAngsYHFAXgRAQW-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=190;entryDy=520;entryPerimeter=0;" edge="1" parent="1" source="ZJF9qfAngsYHFAXgRAQW-32" target="39150e848f15840c-2">
@@ -103,7 +103,7 @@
         <mxCell id="ZJF9qfAngsYHFAXgRAQW-35" value="空中学院" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="390" y="510" width="820" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="ZJF9qfAngsYHFAXgRAQW-42" value="法务处" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="ZJF9qfAngsYHFAXgRAQW-42" value="内容运营人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="680" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZJF9qfAngsYHFAXgRAQW-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZJF9qfAngsYHFAXgRAQW-42" target="ZJF9qfAngsYHFAXgRAQW-45">
